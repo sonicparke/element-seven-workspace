@@ -1,0 +1,9 @@
+{
+  "name": "element-seven",
+  "version": "0.0.1",
+  "dependencies": {
+    "@angular/common": "7.1.0",
+    "@angular/core": "7.1.0",
+    "@angular/cdk": "7.1.1"
+  }
+}
